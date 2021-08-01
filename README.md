@@ -1,3 +1,4 @@
+ vscode://vscode.github-authentication/did-authenticate?windowid=1&code=c922a6e9d2208b20cd12&state=1636cb95-be0a-42ec-add6-731d5a91b3fc 
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

@@ -96,6 +96,9 @@ const  SignUP = styled.div`
     padding:16.5px 0;
     border:1px solid transparent;
     border-radius:4px;
+    &::hover {
+      
+    }
 `;
 
 const Description = styled.p`
@@ -112,7 +115,7 @@ const CTALogoTwo = styled.img`
     width: 100%;
     display: inline-block;
     vertical-align: bottom;
-    
+
 `;
 
 export default Login;
